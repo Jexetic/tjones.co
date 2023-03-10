@@ -2,17 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.tjones.co/christmas-2022-photos/</loc>
-    <lastmod>2022-12-25T20:49:07-07:00</lastmod>
-  </url><url>
-    <loc>https://www.tjones.co/posts/</loc>
-    <lastmod>2022-12-25T20:49:07-07:00</lastmod>
-  </url><url>
-    <loc>https://www.tjones.co/</loc>
-    <lastmod>2022-12-25T20:49:07-07:00</lastmod>
-  </url><url>
     <loc>https://www.tjones.co/categories/</loc>
   </url><url>
     <loc>https://www.tjones.co/tags/</loc>
+  </url><url>
+    <loc>https://www.tjones.co/</loc>
   </url>
 </urlset>
